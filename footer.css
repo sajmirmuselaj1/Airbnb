@@ -1,0 +1,19 @@
+.body{
+   background-color: grey;}
+
+   .navbar {
+    width: 40%; 
+}
+
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.container{
+    display: grid;
+    grid-template-rows: 10px 100px 100px 100px;
+    grid-template-columns: 100px 100px;
+}
